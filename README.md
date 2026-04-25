@@ -5,5 +5,4 @@ Neste trabalho, o foco não é encontrar necessariamente o circuito (tour) ótim
 - smallest insertion
 </br>
 Dupla: Davi Lima de Oliveira Rocha - 2416731, Gabriel Rangel Lustosa - 2014304</br>
-Video:</br>
-https://youtu.be/w31mA_SljLQ
+Video: https://youtu.be/w31mA_SljLQ
